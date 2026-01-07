@@ -1,41 +1,125 @@
-# Olá, eu sou [Bruno Mends] 👋
+# 👋 Hi, [Bruno Mends]
 
-Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de **Cibersegurança**, focado na área de **Blue Team**, com o objetivo de me tornar um **SOC Analyst** e **Threat Hunter**. Atualmente, estou em transição de carreira e me aprofundando em estudos de **Defensive Security**, com ênfase em **análise de redes**, **monitoramento de segurança** e **resposta a incidentes**.
+I’m a **UI-focused Front-End Developer and Product Designer** with a strong emphasis on **high-conversion digital experiences**, modern interface design, and visually impactful solutions.
 
-## 🧠 Minha Jornada em Cibersegurança
-Em 2025, comecei a estudar **Cibersegurança** com um foco no **Blue Team**. Minha meta é construir uma base sólida para atuar em **SOC** e em áreas relacionadas à defesa de sistemas, redes e servidores. Atualmente, estou fazendo cursos como:
+My work sits at the intersection of **UI Design, Front-End execution, Product Design strategy, and visual experimentation (Motion & 3D)** — combining aesthetics, usability, and performance into cohesive digital products.
 
-- **Pentest Profissional** (Desec Security)
-- **Linux Completo** (Matheus Müller)
-- **SOC Analyst Fundamentals** (HackersHive)
-- **Certificação Profissional em Cibersegurança do Google** (Coursera)
+---
 
-Estou preparando-me também para a graduação em **Defensive Cyber Security** (Blue Team Ops) na **FIAP**.
+## 🧠 What I Do
 
-## 💻 Ferramentas e Tecnologias que Uso
-- **Linguagens**: Python, Bash
-- **Plataformas**: Docker, Kubernetes (em estudo)
-- **Ferramentas de Blue Team**: Splunk, ELK Stack, Wireshark, nmap, Firewalls e IDS/IPS
-- **Outras Tecnologias**: Sistemas Linux (Debian/Ubuntu), Redes TCP/IP, Redes Wi-Fi
+- Design and build **high-performance landing pages**
+- Create **modern, scalable UI systems**
+- Translate design decisions into **clean, production-ready front-end**
+- Apply **Product Design thinking** to solve real user and business problems
+- Enhance interfaces with **motion, microinteractions, and 3D elements**
 
-## 🛠️ Projetos Atuais
-Estou constantemente trabalhando em projetos que me ajudam a consolidar meus conhecimentos práticos em Cibersegurança. Alguns dos meus projetos incluem:
+---
 
-- **Automação de tarefas de monitoramento** usando scripts em Python
-- **Configuração e análise de logs de segurança** com ELK Stack
-- **Análise de tráfego de rede** com Wireshark e nmap
+## 🕸️ Skill Tree Overview
 
-Você pode conferir alguns desses projetos aqui no meu GitHub!
+### 🎨 UI Design (Foundation)
+- Visual hierarchy, layout systems, typography
+- Design systems & component-based interfaces
+- High-fidelity prototyping (Figma)
+- Interface consistency and scalability
 
-## 🎯 O que Estou Aprendendo Agora
-Atualmente, estou me aprofundando em:
+### 🔥 Visual UI Boost (Advanced)
+- Contemporary UI aesthetics
+- Visual storytelling
+- High-impact layouts for web and landing pages
+- Portfolio-ready visual exploration
 
-- **Análise de Logs** e **Resposta a Incidentes** em ambientes corporativos
-- **Ferramentas SIEM** e **Monitoramento de Rede**
-- **Forense Digital** e **Análise de Ameaças**
+### 🎥 Motion & 3D
+- Motion applied to interfaces
+- Microinteractions
+- 3D elements for hero sections and digital experiences
+- Visual composition and dynamic storytelling
 
-## 💬 Vamos Conversar?
-Estou sempre aberto a colaborações, trocas de conhecimento e novas conexões. Se você está interessado em Cibersegurança, **Blue Team** ou qualquer outro tópico relacionado, fique à vontade para me enviar uma mensagem!
+### 💻 Front-End Awareness
+- HTML, CSS, JavaScript
+- Responsive layouts and real-world constraints
+- Componentization (Design ↔ Code)
+- Performance-aware implementation
+- Precise handoff between design and development
 
-- **Email**: [hi@bruno-soc.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/brunosoc/)]
+### 🧠 UX & Product Thinking
+- Design Thinking
+- User research & usability testing
+- Information Architecture
+- User flows and journeys
+- UX Writing
+
+### 📊 Product & Metrics
+- Product Design fundamentals
+- Product Discovery & validation
+- Product Analytics
+- Conversion funnels and behavioral metrics
+- Data-informed design decisions
+
+---
+
+## 🚀 Current Focus
+
+- High-conversion landing pages
+- UI systems for digital products
+- Visual experimentation with motion and 3D
+- Bridging design strategy and front-end execution
+- Building a strong, consistent design + code portfolio
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Design**
+- Figma
+- Design Systems
+- Prototyping
+- Motion & 3D tools
+
+**Front-End**
+- HTML
+- CSS
+- JavaScript
+- Modern JS frameworks
+
+**Product**
+- Discovery & Validation
+- UX Research
+- Metrics & Analytics
+- Agile workflows
+
+---
+
+## 📂 What You’ll Find Here
+
+This repository contains:
+- UI experiments and design-to-code implementations
+- Front-end components and layouts
+- Landing page structures focused on conversion
+- Visual explorations (motion, interaction, 3D concepts)
+- Product-oriented design and development projects
+
+---
+
+## 📌 Philosophy
+
+> Good design is not just how it looks.  
+> Great products are built when **visual clarity, user experience, and execution quality** work together.
+
+I believe in design that is **intentional, measurable, and executable**.
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: *[add your link]*
+- Behance: *[add your link]*
+
+---
+
+⭐ Feel free to explore the projects and follow the evolution.
+
+
+- **Email**: [hi@bruno-mends.com]
+- **LinkedIn**: [(https://www.linkedin.com/in/bruno-mends/)]
