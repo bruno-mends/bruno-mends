@@ -1,4 +1,4 @@
-# 👋 Hi, [Bruno Mends]
+# 👋 Hi, [Setz] here!
 
 I’m a **UI-focused Front-End Developer and Product Designer** with a strong emphasis on **high-conversion digital experiences**, modern interface design, and visually impactful solutions.
 
@@ -121,5 +121,5 @@ I believe in design that is **intentional, measurable, and executable**.
 ⭐ Feel free to explore the projects and follow the evolution.
 
 
-- **Email**: [hi@bruno-mends.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/bruno-mends/)]
+- **Email**: [hi@setz.dev]
+- **LinkedIn**: [(https://www.linkedin.com/in/setz-dev/)]
